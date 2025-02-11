@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity,python,pygame...
 - 🌱 I’m currently learning cybersecurity,python,pygame...
 - 💞️ I’m looking to collaborate on github
-- 📫 Any problems? contact me "omrotionium@protonmail.com"
+
 
 <!---
 rhiverish/rhiverish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
